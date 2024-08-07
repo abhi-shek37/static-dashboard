@@ -1,0 +1,21 @@
+
+nav{
+    max-height: 60px;
+    padding: 5px;
+}
+
+.icon-circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #d80e0e;
+    color: #97f009;
+}
+
+.icon-circle svg {
+    font-size: 16px;
+}
+

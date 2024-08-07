@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sidebar {
+  width: 50px;
+  min-height: 100vh;
+}
+
+.dashboard {
+  flex: 1;
+  padding: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+
